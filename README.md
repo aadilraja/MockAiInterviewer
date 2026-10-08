@@ -721,4 +721,3 @@ See [`LICENSE`](LICENSE) for details.
 **Aadil Raja**
 
 GitHub: [@aadilraja](https://github.com/aadilraja)
-```
