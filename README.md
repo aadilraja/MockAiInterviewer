@@ -3,22 +3,19 @@
 
 > An AI-powered mock interview platform that generates personalized interview questions and evaluates candidate responses using speech-to-text, computer vision, facial emotion analysis, and a local LLM.
 
-
-
-
-2. Login Page
+1. Login Page
 ![Authentication Page](./imgs/Login.png)
 
-3. Dashboard
+2. Dashboard
 ![Dashboard](./imgs/DashBoard.png)
 
-4. File Upload
+3. File Upload
 ![File Upload](./imgs/File_Upload.png)
 
-5. Interview Settings
+4. Interview Settings
 ![Interview Settings](./imgs/Interview_settings.png)
 
-6. Live Interview
+5. Live Interview
 ![Live Interview](./imgs/LiveInterview.png)
 
 
