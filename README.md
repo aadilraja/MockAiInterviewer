@@ -4,8 +4,7 @@
 > An AI-powered mock interview platform that generates personalized interview questions and evaluates candidate responses using speech-to-text, computer vision, facial emotion analysis, and a local LLM.
 
 
-1. Landing Page
-![Landing Page](./imgs/Landing.png)
+
 
 2. Login Page
 ![Authentication Page](./imgs/Login.png)
