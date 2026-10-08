@@ -1,3 +1,5 @@
+//dashboard.jsx
+
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from "react-router-dom";
 import { Plus, Clock, BrainCircuit, ArrowRight, Activity, Calendar } from 'lucide-react';

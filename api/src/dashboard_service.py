@@ -1,6 +1,7 @@
+# Dashboard service
+
 from database import db
 from models import User
-from models import Stats
 
 def user_dashBoard_logic(data):
     print(data)

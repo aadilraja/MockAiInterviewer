@@ -1,3 +1,5 @@
+
+// Hero.jsx
 import logo from '../assets/logo.png'
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import React from 'react';
@@ -19,7 +21,7 @@ export default function Hero() {
                         <img src={logo} alt="logo" className="h-full w-full object-cover" />
                     </div>
                     <p className="font-bold text-2xl text-slate-50 tracking-tight">
-                        Vision<span className="text-sky-400">AI</span>
+                        Cognify<span className="text-sky-400">AI</span>
                     </p>
                 </div>
 
